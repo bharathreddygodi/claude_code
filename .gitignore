@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+bin/
+
+# Editor / OS junk
+.vscode/
+.vs/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local Claude settings
+.claude/settings.local.json
